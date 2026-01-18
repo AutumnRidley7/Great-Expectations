@@ -1,5 +1,6 @@
 # Great-Expectations
-Quiz 1: SDEV 143 Module 1 
+Quiz 1: SDEV 143 Module 1
+
 My dream job is to work as a video game developer, ideally contributing to
 story-driven or simulation-based games such as those created by Quantic Dream
 or the Sims team at EA. This career appeals to me because it combines
